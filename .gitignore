@@ -1,0 +1,6 @@
+/STM32CubeIDE/Debug/
+*.a
+*.o
+*.d
+*.tmp
+/STM32CubeIDE/Release/
